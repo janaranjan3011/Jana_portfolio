@@ -54,7 +54,7 @@ export default function Hero() {
             <a href="https://www.linkedin.com/in/janaranjan-shanmuga-gandhi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0qvjiiqXRhKfJuw9SIh02A%3D%3D" target="_blank" rel="noreferrer" className="inline-flex h-12 w-12 items-center justify-center rounded-3xl border border-slate-700/60 bg-slate-900/70 text-cyan-300 transition hover:bg-cyan-500/10">
               <FiLinkedin className="h-5 w-5" />
             </a>
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="inline-flex h-12 w-12 items-center justify-center rounded-3xl border border-cyan-400/20 bg-slate-900/70 text-cyan-300 shadow-[0_0_12px_rgba(0,255,255,0.08)] transition hover:bg-cyan-500/10 hover:shadow-[0_0_16px_rgba(255,0,255,0.16)]">
+            <a href="https://github.com/janaranjan3011" target="_blank" rel="noreferrer" className="inline-flex h-12 w-12 items-center justify-center rounded-3xl border border-cyan-400/20 bg-slate-900/70 text-cyan-300 shadow-[0_0_12px_rgba(0,255,255,0.08)] transition hover:bg-cyan-500/10 hover:shadow-[0_0_16px_rgba(255,0,255,0.16)]">
               <FiGithub className="h-5 w-5" />
             </a>
             <a href="mailto:janaranjan2000@gmail.com" className="inline-flex h-12 w-12 items-center justify-center rounded-3xl border border-cyan-400/20 bg-slate-900/70 text-cyan-300 shadow-[0_0_12px_rgba(0,255,255,0.08)] transition hover:bg-cyan-500/10 hover:shadow-[0_0_16px_rgba(255,0,255,0.16)]">
